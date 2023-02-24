@@ -1,5 +1,7 @@
 # Data_Analysis
-Data Analysis using pandas, numpy, matplitlib and seaborn
+The following analysis is done based on a dataset from kaggle on hotel data. 
+
+
 ![image](https://user-images.githubusercontent.com/77487906/221069016-f27039c9-6c3a-4023-8b35-e5c73bcf5dc2.png)
 ![image](https://user-images.githubusercontent.com/77487906/221069038-81ccffb6-a419-4889-af37-7a4e3dfaada8.png)
 ![image](https://user-images.githubusercontent.com/77487906/221069052-68601f44-ad9a-431b-94b4-fb889af4a379.png)
